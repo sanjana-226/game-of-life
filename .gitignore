@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Gradle files
+.gradle/
+build/
+
+# Eclipse/IntelliJ IDEA files
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated JARs / binaries
+*.jar
+*.war
+*.ear
+/.vscode/
+/bin/main/
