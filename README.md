@@ -19,6 +19,6 @@ A modular Java implementation of Conway's Game of Life with O(1) space optimizat
 - Pluggable board generators and game rules
 - Console visualization
 
-## To Modify Parameters**
+## To Modify Parameters
 
 Set board size and ticks in Main.java

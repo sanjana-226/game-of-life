@@ -4,8 +4,8 @@ import rules.GameRules;
 import rules.StandardGameRules;
 
 public class Main {
-    private static final int BOARD_ROWS = 25;
-    private static final int BOARD_COLS = 25;
+    private static final int BOARD_ROWS = 15;
+    private static final int BOARD_COLS = 15;
     private static final int TICKS = 10;
 
     public static void main(String[] args) {
